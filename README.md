@@ -18,10 +18,9 @@
 - Git
 
 * Criação do Pojeto ReactJS
-yarn create react-app frontend --template typescript
 * Criação Projeto Spring Boot
 * Salvar a primeira versão no Github
-* "limpar" o projeto ReactJS
+* limpar o projeto ReactJS
 * adicionar Bootstrap e CSS ao projeto
 * Componente Navbar
 * Rotas
