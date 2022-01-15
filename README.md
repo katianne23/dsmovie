@@ -5,7 +5,7 @@
 - Salvar os projeto no Github em monorepo
 - Montar o visual estático do front end
 
-##Checklist
+## Checklist
 
 * Preparação das ferramentas:
 - JDK 11 ou 17
@@ -31,8 +31,8 @@ yarn create react-app frontend --template typescript
 * Navegação dos botões
 
 
-## O segundo epsodio da Semana Spring Reac foi a criação
-do Back end com Java e Spring, que irá disponibilizar uma API REST
+ ## O segundo epsodio da Semana Spring Reac
+ ### Criação do Back end com Java e Spring, que irá disponibilizar uma API REST
 
 ### O que foi aprendido na aula de back end:
 - Modelo de domínio
