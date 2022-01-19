@@ -58,5 +58,5 @@
 ## Terceiro Epsodio 
 * Integrar back end e front end
 
-### Veja o funcionamento da APP
+### Veja o funcionamento da API
 [DsMovie](https://katianne-dsmovie.netlify.app/)
